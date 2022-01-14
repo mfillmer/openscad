@@ -1,4 +1,4 @@
-use <pegboard.scad>
+use <grid.scad>
 $fn=20;
 
-pegboard(70, 140, holesize=10);
+grid(70, 140, height=2);
